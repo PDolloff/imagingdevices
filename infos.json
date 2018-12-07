@@ -1,0 +1,9 @@
+{
+  "displayName" : "Imaging Devices",
+  "author" : ["Peter Dolloff"],
+  "contributor" : ["Guillaume PRIOU", "Gilles DUBOIS"],
+  "supportedAgent" : ["Windows"],
+  "description" : {
+    "en" : "Retrieve imaging devices from clients"
+  }
+}
