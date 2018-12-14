@@ -25,8 +25,8 @@ cache => 0,
 fields => {
      NAME => {},
      MANUFACTURER => {},
-     DESCRIPTION = {},
-     SERIAL = {}
+     DESCRIPTION => {},
+     SERIAL => {}
 }
  
 };
